@@ -1,0 +1,1 @@
+This is the first HTML and CSS project of the yet another online course I am going through.
