@@ -1,0 +1,40 @@
+body {
+    background-color: #F2F2F2;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-container {
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    height: 497px;
+    width: 320px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.qr-container {
+    border-radius: 10px;
+    
+}
+
+.qr-container img {
+    height: 160px;
+    width: 160px;
+    border-radius: 20px;
+}
+
+h2 {
+    margin: 24px 16px 16px;
+    text-align: center;
+}
+
+h3 {
+    margin: 16px 32px 40px;
+    text-align: center;
+}
